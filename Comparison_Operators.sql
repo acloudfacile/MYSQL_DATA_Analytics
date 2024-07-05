@@ -29,5 +29,5 @@ WHERE tip < 5; -- "<" results the tip which is less than 5.
 
 SELECT *
 FROM bakery.customer_orders
-WHERE tip <= 5; -- "<=" results the tip which is greater than and equal 5.
+WHERE tip <= 5; -- "<=" results the tip which is less than and equal 5.
 
